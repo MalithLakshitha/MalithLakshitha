@@ -16,7 +16,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 180px></picture>
 
 - :man_student: I am a `Final Year Undergraduate` at [SLIIT University](https://www.sliit.lk/).
-- :school: I am a `Proud Rajan ❤️`: at [Dharmaraja College - Kandy, Sri Lanka](https://www.dharmaraja.lk/).
+- :school: I am a `Proud Rajan ❤️` at [Dharmaraja College - Kandy, Sri Lanka](https://www.dharmaraja.lk/).
 - :computer: I’m currently learning `Artificial Intelligence` and `Machine Learning`.
 - :thinking: I’m currently open to a new `job opportunity`.
 - :nerd_face: Always `learning new things`.
