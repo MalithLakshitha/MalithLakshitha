@@ -1,5 +1,5 @@
 <p align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 90px></p>
-<h1 align="center">Hi , I'm Malith Lakshitha 😃</h1>
+<h1 align="center">Hi , I'm Malith Lakshitha 🤠</h1>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas+bold&color=%29C3BE25&size=20&center=true&vCenter=true&width=600&height=50&lines=Data+Science+(UG)+at+SLIIT;Proud+Product+of+Dharmaraja+♥;Kandy+,+Sri+Lanka"></a>
 </p>
